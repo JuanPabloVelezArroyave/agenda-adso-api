@@ -1,11 +1,11 @@
 {
-"contactos": [
-{
-"id": 1,
-"nombre": "Ejemplo Inicial",
-"telefono": "3000000000",
-"correo": "ejemplo@correo.com",
-"etiqueta": "demo"
-}
-]
+  "contactos": [
+    {
+      "nombre": "Juan Pablo Vélez",
+      "telefono": "0123456789",
+      "correo": "direcciondelcorreo@hotmail.com",
+      "etiqueta": "admin",
+      "id": 2
+    }
+  ]
 }
